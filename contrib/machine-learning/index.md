@@ -11,3 +11,4 @@
 - [Types of optimizers](Types_of_optimizers.md)
 - [Logistic Regression](logistic-regression.md)
 - [Grid Search](grid-search.md)
+- [Convolutional Neural Networks](convolutional-neural-networks.md)
